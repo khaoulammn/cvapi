@@ -20,7 +20,7 @@ CVAPI est une application Spring Boot permettant de :
 **COMMNET DEMARER LE PROJET:**
 
 1-cloner le projet :
-git clone https://github.com/votre-utilisateur/cvapi.git
+git clone https://github.com/khaoulammn/cvapi.git
 cd cvapi
 
 2-Configurer la base de données PostgreSQL dans:
